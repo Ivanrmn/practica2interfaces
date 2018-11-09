@@ -1,0 +1,58 @@
+header {
+    width: 1000px;
+    height: 140px;
+}
+
+.headerIcons {
+    display: flex;
+    float: right;
+}
+
+.imagHeader {
+    width: 20px;
+    height: 20px;
+    padding-left: 8px;
+    margin-top: 15px;
+}
+
+nav {
+    background-color: #2e2e2e;
+    width: 1000px;
+    height: 40px;
+    margin-bottom: 10px;
+}
+
+.navegador {
+    color: white;
+    text-decoration: none;
+    padding-right: 15px;
+    padding-left: 15px;
+    font-size: 1.1em;
+}
+
+.banner {
+    width: 1000px;
+    height: 400px;
+}
+
+
+.footer {
+    background-color: #2e2e2e;
+    width: 33%;
+    height: 300px;
+    border-style: dotted;
+    border-color: darkgray;
+    border-width: 2px;
+}
+
+footer {
+    display: flex;
+}
+
+footer p {
+    color: white;
+}
+
+footer h2 {
+    color: white;
+}
